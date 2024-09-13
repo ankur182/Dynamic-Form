@@ -1,0 +1,24 @@
+.nav {
+  background-color: #d1eaff; 
+  padding: 1rem; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+.nav__brand {
+  display: flex;
+  align-items: center; 
+  text-decoration: none;
+  color: #000; 
+}
+
+.logo {
+  height: 50px; 
+  margin-right: 10px; 
+}
+
+.nav__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
